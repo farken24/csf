@@ -18,7 +18,19 @@ import math                     # makes the math.sqrt function available
 
 print "Problem 1 solution follows:"
 
-print "Solution to Problem 1" 
+a = 1
+
+b = -5.86
+
+c = 8.5408
+
+posroot = (-b + math.sqrt (b ** 2 - 4 * a * c)) / 2 * a
+
+negroot = (-b - math.sqrt (b ** 2 - 4 * a * c)) / 2 * a
+
+print posroot
+
+print negroot
 
 
 ###
