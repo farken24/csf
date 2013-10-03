@@ -1,5 +1,5 @@
-# Name: ...
-# Evergreen Login: ...
+# Name: Kenneth Faria
+# Evergreen Login: farken24
 # Computer Science Foundations
 # Programming as a Way of Life
 # Homework 1
@@ -54,7 +54,7 @@ print hw1_test.f
 
 print "Problem 3 solution follows:"
 
-# ... write your code and comments here (and remove this line)
+
 
 
 ###
