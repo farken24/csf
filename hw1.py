@@ -24,9 +24,9 @@ b = -5.86
 
 c = 8.5408
 
-posroot = (-b + math.sqrt (b ** 2 - 4 * a * c)) / 2 * a
+posroot = (-b + math.sqrt(b ** 2 - 4 * a * c)) / 2 * a
 
-negroot = (-b - math.sqrt (b ** 2 - 4 * a * c)) / 2 * a
+negroot = (-b - math.sqrt(b ** 2 - 4 * a * c)) / 2 * a
 
 print posroot
 
@@ -62,4 +62,8 @@ print ((hw1_test.a and hw1_test.b) or (not hw1_test.c) and not (hw1_test.d or hw
 ### Collaboration
 ###
 
-# ... Stephen 
+# ... Stephen and Cody
+# This assignemnt and all the readings took me around 3 hours to complete.
+# Did the readings, tutorials, and lecture contain everything you
+# needed to know to solve this problem? Yes and no.
+#The readings and lecture contained valuable info, however I found the most helpful info working with my fellow classmates.
