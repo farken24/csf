@@ -39,8 +39,14 @@ print negroot
 
 print "Problem 2 solution follows:"
 
-# ... write your code and comments here (and remove this line)
+import hw1_test
 
+print hw1_test.a
+print hw1_test.b
+print hw1_test.c
+print hw1_test.d
+print hw1_test.e 
+print hw1_test.f
 
 ###
 ### Problem 3
@@ -55,4 +61,4 @@ print "Problem 3 solution follows:"
 ### Collaboration
 ###
 
-# ... List your collaborators here, as a comment (on a line starting with "#").
+# ... Stephen 
