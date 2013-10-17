@@ -1,2 +1,8 @@
 # Graded by rel 
 # rozari15
+
+from lab2 import n
+i = 0
+for i <= n:
+  i = i + 1
+  print "Hello World"
