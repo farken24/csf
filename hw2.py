@@ -1,5 +1,5 @@
-# Name: ...
-# Evergreen Login: ...
+# Name: Kennet Faria
+# Evergreen Login: farken24
 # Computer Science Foundations
 # Programming as a Way of Life
 # Homework 2
@@ -17,7 +17,8 @@
 # DO NOT CHANGE THE FOLLOWING LINE
 print "Problem 1 solution follows:"
 
-# ... write your code and comments here (and remove this line)
+for i in range(100):
+    print i
 
 
 ###
