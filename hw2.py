@@ -17,9 +17,18 @@
 # DO NOT CHANGE THE FOLLOWING LINE
 print "Problem 1 solution follows:"
 
-for i in range(100):
-    print i
+def total(num):
+   
+    theSum  = 0
+    aNumber = 1
+    while aNumber <= num:
+        theSum = theSum + aNumber
+        aNumber = aNumber + 1
+    return theSum
 
+print (total(10))
+
+print (total(100))
 
 ###
 ### Problem 2
