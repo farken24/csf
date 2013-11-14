@@ -1,5 +1,5 @@
-Name: ...
-UW NetID: ...
+Name: Kenneth Faria
+UW NetID: farken24
 CSE 140
 Homework 3: Election prediction
 
